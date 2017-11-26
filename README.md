@@ -9,7 +9,7 @@ Material used:
 Qty | Component
 --- | -----------
 01  | Arduino UNO;
-    | Cables Jumpers;
+-   | Cables Jumpers;
 27  | RGB LEDs common anode;
 01  | 10k resistor;
 02  | Resistor of 2,2k;
