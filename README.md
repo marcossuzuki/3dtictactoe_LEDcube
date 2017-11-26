@@ -2,7 +2,7 @@
 
 Development of a three-dimensional tic-tac-toe, instead of the board is used a cube of LED's RGB. A control was developed with 7 switches and a joystick that uses two potentiometers for space movements.
 
-Arduino was used for programming controls, LEDs lighting and game rules.
+Arduino plataform was used for programming controls, LEDs lighting and game rules.
 
 Material used:
 
