@@ -8,13 +8,13 @@ Material used:
 
 Qty | Component
 --- | -----------
-01  | Arduino UNO;
-Varoius   | Cables Jumpers;
-27  | RGB LEDs common anode;
-01  | 10k resistor;
-02  | Resistor of 2,2k;
-03  | 1k resistors;
-03  | MOSFET Transistor IRF9530N;
-01  | Joystick with potentiometer;
-06  | tactil switches;
-02  | CI TLC9540NT.
+01  | Arduino UNO
+Varoius   | Cables Jumpers
+27  | RGB LEDs common anode
+01  | 10k resistor
+02  | Resistor of 2,2k
+03  | 1k resistors
+03  | MOSFET Transistor IRF9530N
+01  | Joystick with potentiometer
+06  | tactil switches
+02  | CI TLC9540NT
