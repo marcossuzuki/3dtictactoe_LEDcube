@@ -34,4 +34,4 @@ Results
 Video:
 
 
-[![Alt text for your video](https://img.youtube.com/vi/Elkezr1vpU4/0.jpg)](https://youtu.be/Elkezr1vpU4)
+[![Alt text for your video](https://share.gifyoutube.com/Elkezr1vpU4.gif)](https://youtu.be/Elkezr1vpU4)
