@@ -5,15 +5,15 @@ Development of a three-dimensional tic-tac-toe, instead of the board is used a c
 Arduino was used for programming controls, LEDs lighting and game rules.
 
 Material used:
-Qty|Component
----|-----------
-01 | Arduino UNO;
-   |Cables Jumpers;
-27 | RGB LEDs common anode;
-01 | 10k resistor;
-02 | Resistor of 2,2k;
-03 | 1k resistors;
-03 | MOSFET Transistor IRF9530N;
-01 | Joystick with potentiometer;
-06 | tactil switches;
-02 | CI TLC9540NT.
+Qty | Component
+--- | -----------
+01  | Arduino UNO;
+    | Cables Jumpers;
+27  | RGB LEDs common anode;
+01  | 10k resistor;
+02  | Resistor of 2,2k;
+03  | 1k resistors;
+03  | MOSFET Transistor IRF9530N;
+01  | Joystick with potentiometer;
+06  | tactil switches;
+02  | CI TLC9540NT.
