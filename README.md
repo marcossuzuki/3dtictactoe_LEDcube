@@ -6,7 +6,7 @@ Arduino was used for programming controls, LEDs lighting and game rules.
 
 Material used:
 Qty|Component
---------------
+---|-----------
 01| Arduino UNO;
   |Cables Jumpers;
 27| RGB LEDs common anode;
