@@ -19,4 +19,10 @@ Varoius   | Cables Jumpers
 06  | tactil switches
 02  | IC TLC9540NT
 
-Markup : ![picture alt](https://i.pinimg.com/originals/77/fd/c0/77fdc07fe05bbf62986a2fd3fa06ccb7.jpg "Title is optional")
+Schema : ![picture alt](https://i.pinimg.com/originals/77/fd/c0/77fdc07fe05bbf62986a2fd3fa06ccb7.jpg)
+Schema : ![picture alt](https://i.pinimg.com/originals/da/73/ce/da73ce355f6c3ffb72dd91e8fc853c6c.jpg)
+Schema : ![picture alt](https://i.pinimg.com/originals/39/27/7a/39277add506574c7690214afd8c79542.jpg)
+Schema : ![picture alt](https://i.pinimg.com/originals/27/07/88/270788be355edc9e2c107a9e77b8b5b6.jpg)
+Results : ![picture alt](https://i.pinimg.com/originals/d8/84/ed/d884eddd8f5af6ed7015945c22f4825c.jpg)
+Results : ![picture alt](https://i.pinimg.com/originals/8b/76/d3/8b76d373afcc5b770c2bf6366e2fadee.jpg)
+
