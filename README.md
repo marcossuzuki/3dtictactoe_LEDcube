@@ -5,6 +5,7 @@ Development of a three-dimensional tic-tac-toe, instead of the board is used a c
 Arduino was used for programming controls, LEDs lighting and game rules.
 
 Material used:
+
 Qty | Component
 --- | -----------
 01  | Arduino UNO;
