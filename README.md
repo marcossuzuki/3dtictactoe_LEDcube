@@ -17,4 +17,4 @@ Varoius   | Cables Jumpers
 03  | MOSFET Transistor IRF9530N
 01  | Joystick with potentiometer
 06  | tactil switches
-02  | CI TLC9540NT
+02  | IC TLC9540NT
